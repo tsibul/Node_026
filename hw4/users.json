@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "firstName": "Julia",
+    "lastName": "Petrov",
+    "age": 14,
+    "mail": "mail@mail.ru",
+    "city": "jul@yahoo.com"
+  },
+  {
+    "id": 2,
+    "firstName": "Petr",
+    "lastName": "Alekseev",
+    "age": 22,
+    "mail": "gmail@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Ivan",
+    "surName": "Ivanov",
+    "age": 19,
+    "mail": "ivanov@yahoo.com"
+  },
+  {
+    "id": 4,
+    "name": "Mike",
+    "surName": "Ivanov",
+    "age": 18,
+    "mail": "ivanov2@yahoo.com"
+  },
+  {
+    "id": 5,
+    "name": "Julia",
+    "surName": "Petrov",
+    "age": 14,
+    "mail": "jul@yahoo.com"
+  },
+  {
+    "id": 6,
+    "name": "Anna",
+    "surName": "Maniani",
+    "age": 19,
+    "mail": "anna@yahoo.com"
+  }
+]
